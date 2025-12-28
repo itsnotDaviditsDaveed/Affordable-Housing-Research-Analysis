@@ -1,0 +1,23 @@
+I got this data from NYC Open Data here: https://data.cityofnewyork.us/Housing-Development/Affordable-Housing-Production-by-Building/hg8x-zxpr/about_data
+
+
+These are all apartments, by the way.
+
+
+The Department of Housing Preservation and Development (HPD) reports on projects, buildings, 
+and units that began after January 1, 2014, and are counted towards either the Housing New York plan 
+(1/1/2014 – 12/31/2021) or the Housing Our Neighbors: 
+A Blueprint for Housing & Homelessness plan (1/1/2022 – present).
+
+According to the website, each row is a BUILDING, which may appear in the file more than once if it has been involved in multiple projects.
+
+There are 41 columns, Project ID, Project Name, Project Start Date, Project Completion Date, Building ID, Number, 
+Street, Borough, Postcode, BBL, BIN, Community Board, Council District, Census Tract, NTA – Neighborhood Tabulation Area, 
+Latitude, Longitude, Latitude (Internal), Longitude (Internal), Building Completion Date, Reporting Construction Type, 
+Extended Affordability Only, Prevailing Wage Status, Extremely Low Income Units, Very Low Income Units, Low Income Units, 
+Moderate Income Units, Middle Income Units, Other Income Units, Studio Units, 1-BR Units, 2-BR Units, 3-BR Units, 4-BR Units, 5-BR Units, 6-BR+ Units, 
+Unknown-BR Units, Counted Rental Units, Counted Homeownership Units, All Counted Units, Total Units
+
+
+So some questions we can ask:
+
